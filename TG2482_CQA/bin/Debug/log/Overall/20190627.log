@@ -1,0 +1,506 @@
+09:33:14 power on and ping test passing!
+09:33:16 Serial Number:96C2D9553302558
+09:33:16 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:33:16 HW_REV:HW_REV: 3
+09:33:16 VENDOR:VENDOR: ARRIS Group, Inc.
+09:33:16 BOOTR:BOOTR: 2.2.0.45
+09:33:16 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:33:16 MODEL:MODEL: TG2482AP2-85
+09:33:16 Serial Number:96C2D9553302558
+09:33:16 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:33:16 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:33:16 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:33:17 Docsis-Downstream Scanning:In Progress
+09:33:17 Docsis-Downstream Ranging:Not Started
+09:33:17 Docsis-Upstream Ranging:Not Started
+09:33:17 Docsis-DHCP:Not Started
+09:33:17 Docsis-TFTP:Not Started
+09:33:17 Docsis-Data Reg Complete:Not Started
+09:33:17 Telephony-DHCP:Not Started
+09:33:17 Telephony-TFTP:Not Started
+09:33:17 Telephony-Reg with Call Server:Not Started
+09:33:17 Telephony-Reg Complete:Not Started
+09:33:17 Time of Day:Not Provisioned
+09:33:17 BPI Status:-----
+09:33:23 judge modem check pass
+09:33:27 Check SN pass!
+09:33:28 Check CM telnet pass!
+09:33:29 Check modem is Operating pass!
+09:33:29 Ping to CMTS pass!
+09:33:45 Rest modem pass!
+09:33:47 Check LED and Telephone pass!
+09:33:50 Check WPS pass!
+09:33:52 Check Web page pass!
+09:40:23 power on and ping test passing!
+09:40:24 Serial Number:96C2D9553302558
+09:40:24 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:40:24 HW_REV:HW_REV: 3
+09:40:24 VENDOR:VENDOR: ARRIS Group, Inc.
+09:40:24 BOOTR:BOOTR: 2.2.0.45
+09:40:24 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:40:24 MODEL:MODEL: TG2482AP2-85
+09:40:24 Serial Number:96C2D9553302558
+09:40:25 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:40:25 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:40:25 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:40:25 Docsis-Downstream Scanning:In Progress
+09:40:25 Docsis-Downstream Ranging:Not Started
+09:40:25 Docsis-Upstream Ranging:Not Started
+09:40:25 Docsis-DHCP:Not Started
+09:40:25 Docsis-TFTP:Not Started
+09:40:25 Docsis-Data Reg Complete:Not Started
+09:40:25 Telephony-DHCP:Not Started
+09:40:25 Telephony-TFTP:Not Started
+09:40:25 Telephony-Reg with Call Server:Not Started
+09:40:25 Telephony-Reg Complete:Not Started
+09:40:25 Time of Day:Not Provisioned
+09:40:25 BPI Status:-----
+09:40:27 judge modem check pass
+09:40:30 Check SN pass!
+09:40:32 Check CM telnet pass!
+09:40:32 Check modem is Operating pass!
+09:40:32 Ping to CMTS pass!
+09:40:49 Rest modem pass!
+09:40:52 Check LED and Telephone pass!
+09:40:53 Check WPS pass!
+09:40:57 Check Web page pass!
+09:42:33 power on and ping test passing!
+09:42:41 Serial Number:96C2D9553302558
+09:42:41 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:42:41 HW_REV:HW_REV: 3
+09:42:41 VENDOR:VENDOR: ARRIS Group, Inc.
+09:42:41 BOOTR:BOOTR: 2.2.0.45
+09:42:41 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:42:41 MODEL:MODEL: TG2482AP2-85
+09:42:41 Serial Number:96C2D9553302558
+09:42:41 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:42:42 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:42:42 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:42:43 Docsis-Downstream Scanning:In Progress
+09:42:43 Docsis-Downstream Ranging:Not Started
+09:42:43 Docsis-Upstream Ranging:Not Started
+09:42:43 Docsis-DHCP:Not Started
+09:42:44 Docsis-TFTP:Not Started
+09:42:44 Docsis-Data Reg Complete:Not Started
+09:42:44 Telephony-DHCP:Not Started
+09:42:44 Telephony-TFTP:Not Started
+09:42:44 Telephony-Reg with Call Server:Not Started
+09:42:44 Telephony-Reg Complete:Not Started
+09:42:44 Time of Day:Not Provisioned
+09:42:45 BPI Status:-----
+09:42:46 judge modem check pass
+09:42:49 Check SN pass!
+09:42:51 Check CM telnet pass!
+09:42:52 Check modem is Operating pass!
+09:42:52 Ping to CMTS pass!
+09:45:06 power on and ping test passing!
+09:45:08 Serial Number:96C2D9553302558
+09:45:08 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:45:08 HW_REV:HW_REV: 3
+09:45:08 VENDOR:VENDOR: ARRIS Group, Inc.
+09:45:08 BOOTR:BOOTR: 2.2.0.45
+09:45:08 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:45:08 MODEL:MODEL: TG2482AP2-85
+09:45:08 Serial Number:96C2D9553302558
+09:45:08 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:45:08 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:45:08 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:45:08 Docsis-Downstream Scanning:In Progress
+09:45:08 Docsis-Downstream Ranging:Not Started
+09:45:08 Docsis-Upstream Ranging:Not Started
+09:45:08 Docsis-DHCP:Not Started
+09:45:08 Docsis-TFTP:Not Started
+09:45:08 Docsis-Data Reg Complete:Not Started
+09:45:08 Telephony-DHCP:Not Started
+09:45:08 Telephony-TFTP:Not Started
+09:45:08 Telephony-Reg with Call Server:Not Started
+09:45:08 Telephony-Reg Complete:Not Started
+09:45:08 Time of Day:Not Provisioned
+09:45:08 BPI Status:-----
+09:45:11 judge modem check pass
+09:45:13 Check SN pass!
+09:45:15 Check CM telnet pass!
+09:45:15 Check modem is Operating pass!
+09:45:15 Ping to CMTS pass!
+09:45:31 Rest modem pass!
+09:45:33 Check LED and Telephone pass!
+09:45:35 Check WPS pass!
+09:45:38 Check Web page pass!
+09:51:09 power on and ping test passing!
+09:51:11 Serial Number:96C2D9553302558
+09:51:11 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:51:11 HW_REV:HW_REV: 3
+09:51:11 VENDOR:VENDOR: ARRIS Group, Inc.
+09:51:11 BOOTR:BOOTR: 2.2.0.45
+09:51:11 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:51:11 MODEL:MODEL: TG2482AP2-85
+09:51:11 Serial Number:96C2D9553302558
+09:51:11 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:51:11 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:51:11 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:51:11 Docsis-Downstream Scanning:In Progress
+09:51:11 Docsis-Downstream Ranging:Not Started
+09:51:11 Docsis-Upstream Ranging:Not Started
+09:51:11 Docsis-DHCP:Not Started
+09:51:11 Docsis-TFTP:Not Started
+09:51:11 Docsis-Data Reg Complete:Not Started
+09:51:11 Telephony-DHCP:Not Started
+09:51:11 Telephony-TFTP:Not Started
+09:51:11 Telephony-Reg with Call Server:Not Started
+09:51:11 Telephony-Reg Complete:Not Started
+09:51:11 Time of Day:Not Provisioned
+09:51:11 BPI Status:-----
+09:51:13 judge modem check pass
+09:51:16 Check SN pass!
+09:51:18 Check CM telnet pass!
+09:51:18 Check modem is Operating pass!
+09:51:18 Ping to CMTS pass!
+09:51:38 Rest modem pass!
+09:51:42 Check LED and Telephone pass!
+09:51:44 Check WPS pass!
+09:51:47 Check Web page pass!
+09:52:55 power on and ping test passing!
+09:53:00 Serial Number:96C2D9553302558
+09:53:00 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:53:00 HW_REV:HW_REV: 3
+09:53:01 VENDOR:VENDOR: ARRIS Group, Inc.
+09:53:01 BOOTR:BOOTR: 2.2.0.45
+09:53:01 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:53:01 MODEL:MODEL: TG2482AP2-85
+09:53:01 Serial Number:96C2D9553302558
+09:53:01 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:53:01 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:53:01 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:53:02 Docsis-Downstream Scanning:In Progress
+09:53:03 Docsis-Downstream Ranging:Not Started
+09:53:03 Docsis-Upstream Ranging:Not Started
+09:53:03 Docsis-DHCP:Not Started
+09:53:03 Docsis-TFTP:Not Started
+09:53:03 Docsis-Data Reg Complete:Not Started
+09:53:03 Telephony-DHCP:Not Started
+09:53:03 Telephony-TFTP:Not Started
+09:53:03 Telephony-Reg with Call Server:Not Started
+09:53:03 Telephony-Reg Complete:Not Started
+09:53:03 Time of Day:Not Provisioned
+09:53:03 BPI Status:-----
+09:53:05 judge modem check pass
+09:53:08 Check SN pass!
+09:53:10 Check CM telnet pass!
+09:53:11 Check modem is Operating pass!
+09:53:11 Ping to CMTS pass!
+09:54:28 power on and ping test passing!
+09:54:29 Serial Number:96C2D9553302558
+09:54:29 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:54:29 HW_REV:HW_REV: 3
+09:54:29 VENDOR:VENDOR: ARRIS Group, Inc.
+09:54:29 BOOTR:BOOTR: 2.2.0.45
+09:54:29 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:54:29 MODEL:MODEL: TG2482AP2-85
+09:54:29 Serial Number:96C2D9553302558
+09:54:29 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:54:29 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:54:29 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:54:30 Docsis-Downstream Scanning:In Progress
+09:54:30 Docsis-Downstream Ranging:Not Started
+09:54:30 Docsis-Upstream Ranging:Not Started
+09:54:30 Docsis-DHCP:Not Started
+09:54:30 Docsis-TFTP:Not Started
+09:54:30 Docsis-Data Reg Complete:Not Started
+09:54:30 Telephony-DHCP:Not Started
+09:54:30 Telephony-TFTP:Not Started
+09:54:30 Telephony-Reg with Call Server:Not Started
+09:54:30 Telephony-Reg Complete:Not Started
+09:54:30 Time of Day:Not Provisioned
+09:54:30 BPI Status:-----
+09:54:32 judge modem check pass
+09:54:35 Check SN pass!
+09:54:36 Check CM telnet pass!
+09:54:37 Check modem is Operating pass!
+09:54:37 Ping to CMTS pass!
+09:55:01 Rest modem pass!
+09:55:08 Check LED and Telephone pass!
+09:55:13 Check WPS pass!
+09:55:16 Check Web page pass!
+09:56:10 power on and ping test passing!
+09:56:11 power on and ping test passing!
+09:56:14 Serial Number:96C2D9553302558
+09:56:14 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:56:14 HW_REV:HW_REV: 3
+09:56:14 VENDOR:VENDOR: ARRIS Group, Inc.
+09:56:14 BOOTR:BOOTR: 2.2.0.45
+09:56:14 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:56:14 MODEL:MODEL: TG2482AP2-85
+09:56:14 Serial Number:96C2D9553302558
+09:56:14 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:56:14 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:56:14 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:56:15 Docsis-Downstream Scanning:In Progress
+09:56:15 Docsis-Downstream Ranging:Not Started
+09:56:15 Docsis-Upstream Ranging:Not Started
+09:56:16 Docsis-DHCP:Not Started
+09:56:16 Docsis-TFTP:Not Started
+09:56:16 Docsis-Data Reg Complete:Not Started
+09:56:16 Telephony-DHCP:Not Started
+09:56:16 Telephony-TFTP:Not Started
+09:56:16 Telephony-Reg with Call Server:Not Started
+09:56:16 Telephony-Reg Complete:Not Started
+09:56:16 Time of Day:Not Provisioned
+09:56:17 BPI Status:-----
+09:56:18 Serial Number:96C2D9553302558
+09:56:18 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+09:56:18 HW_REV:HW_REV: 3
+09:56:18 VENDOR:VENDOR: ARRIS Group, Inc.
+09:56:18 BOOTR:BOOTR: 2.2.0.45
+09:56:18 judge modem check pass
+09:56:18 SW_REV:SW_REV: 9.1.103DR1.SIP
+09:56:18 MODEL:MODEL: TG2482AP2-85
+09:56:18 Serial Number:96C2D9553302558
+09:56:18 FWName:TS0901103DR1_042419_1692.GW_SIP
+09:56:18 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+09:56:18 FWRevision:TS0901103DR1_042419_ARRIS_GW
+09:56:19 Docsis-Downstream Scanning:In Progress
+09:56:19 Docsis-Downstream Ranging:Not Started
+09:56:19 Docsis-Upstream Ranging:Not Started
+09:56:19 Docsis-DHCP:Not Started
+09:56:19 Docsis-TFTP:Not Started
+09:56:19 Docsis-Data Reg Complete:Not Started
+09:56:19 Telephony-DHCP:Not Started
+09:56:19 Telephony-TFTP:Not Started
+09:56:19 Telephony-Reg with Call Server:Not Started
+09:56:19 Telephony-Reg Complete:Not Started
+09:56:19 Time of Day:Not Provisioned
+09:56:19 BPI Status:-----
+09:56:20 Check SN pass!
+09:56:21 judge modem check pass
+09:56:22 Check CM telnet pass!
+10:04:01 power on and ping test passing!
+10:04:03 Serial Number:96C2D9553302558
+10:04:03 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+10:04:03 HW_REV:HW_REV: 3
+10:04:03 VENDOR:VENDOR: ARRIS Group, Inc.
+10:04:03 BOOTR:BOOTR: 2.2.0.45
+10:04:03 SW_REV:SW_REV: 9.1.103DR1.SIP
+10:04:03 MODEL:MODEL: TG2482AP2-85
+10:04:03 Serial Number:96C2D9553302558
+10:04:03 FWName:TS0901103DR1_042419_1692.GW_SIP
+10:04:03 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+10:04:03 FWRevision:TS0901103DR1_042419_ARRIS_GW
+10:04:04 Docsis-Downstream Scanning:In Progress
+10:04:04 Docsis-Downstream Ranging:Not Started
+10:04:04 Docsis-Upstream Ranging:Not Started
+10:04:04 Docsis-DHCP:Not Started
+10:04:04 Docsis-TFTP:Not Started
+10:04:04 Docsis-Data Reg Complete:Not Started
+10:04:04 Telephony-DHCP:Not Started
+10:04:04 Telephony-TFTP:Not Started
+10:04:04 Telephony-Reg with Call Server:Not Started
+10:04:04 Telephony-Reg Complete:Not Started
+10:04:04 Time of Day:Not Provisioned
+10:04:04 BPI Status:-----
+10:04:07 judge modem check pass
+10:04:10 Check SN pass!
+10:04:12 Check CM telnet pass!
+10:04:13 Check modem is Operating pass!
+10:04:13 Ping to CMTS pass!
+10:04:35 Rest modem pass!
+10:04:37 Check LED and Telephone pass!
+10:04:40 Check WPS pass!
+10:04:42 Check Web page pass!
+10:07:54 power on and ping test passing!
+10:07:55 Serial Number:96C2D9553302558
+10:07:55 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+10:07:55 HW_REV:HW_REV: 3
+10:07:55 VENDOR:VENDOR: ARRIS Group, Inc.
+10:07:55 BOOTR:BOOTR: 2.2.0.45
+10:07:55 SW_REV:SW_REV: 9.1.103DR1.SIP
+10:07:55 MODEL:MODEL: TG2482AP2-85
+10:07:55 Serial Number:96C2D9553302558
+10:07:55 FWName:TS0901103DR1_042419_1692.GW_SIP
+10:07:55 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+10:07:55 FWRevision:TS0901103DR1_042419_ARRIS_GW
+10:07:56 Docsis-Downstream Scanning:In Progress
+10:07:56 Docsis-Downstream Ranging:Not Started
+10:07:56 Docsis-Upstream Ranging:Not Started
+10:07:56 Docsis-DHCP:Not Started
+10:07:56 Docsis-TFTP:Not Started
+10:07:56 Docsis-Data Reg Complete:Not Started
+10:07:56 Telephony-DHCP:Not Started
+10:07:56 Telephony-TFTP:Not Started
+10:07:56 Telephony-Reg with Call Server:Not Started
+10:07:56 Telephony-Reg Complete:Not Started
+10:07:56 Time of Day:Not Provisioned
+10:07:56 BPI Status:-----
+10:07:58 judge modem check pass
+10:08:01 Check SN pass!
+10:08:02 Check CM telnet pass!
+10:08:03 Check modem is Operating pass!
+10:08:03 Ping to CMTS pass!
+10:08:22 Rest modem pass!
+10:08:24 Check LED and Telephone pass!
+10:08:27 Check WPS pass!
+10:08:29 Check Web page pass!
+10:10:12 power on and ping test passing!
+10:10:14 Serial Number:96C2D9553302558
+10:10:14 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+10:10:14 HW_REV:HW_REV: 3
+10:10:14 VENDOR:VENDOR: ARRIS Group, Inc.
+10:10:14 BOOTR:BOOTR: 2.2.0.45
+10:10:14 SW_REV:SW_REV: 9.1.103DR1.SIP
+10:10:14 MODEL:MODEL: TG2482AP2-85
+10:10:14 Serial Number:96C2D9553302558
+10:10:14 FWName:TS0901103DR1_042419_1692.GW_SIP
+10:10:14 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+10:10:14 FWRevision:TS0901103DR1_042419_ARRIS_GW
+10:10:14 Docsis-Downstream Scanning:In Progress
+10:10:14 Docsis-Downstream Ranging:Not Started
+10:10:14 Docsis-Upstream Ranging:Not Started
+10:10:14 Docsis-DHCP:Not Started
+10:10:14 Docsis-TFTP:Not Started
+10:10:14 Docsis-Data Reg Complete:Not Started
+10:10:14 Telephony-DHCP:Not Started
+10:10:14 Telephony-TFTP:Not Started
+10:10:14 Telephony-Reg with Call Server:Not Started
+10:10:14 Telephony-Reg Complete:Not Started
+10:10:14 Time of Day:Not Provisioned
+10:10:14 BPI Status:-----
+10:10:17 judge modem check pass
+10:10:19 Check SN pass!
+10:10:21 Check CM telnet pass!
+10:10:21 Check modem is Operating pass!
+10:10:21 Ping to CMTS pass!
+10:10:48 Rest modem pass!
+10:10:50 Check LED and Telephone pass!
+10:10:52 Check WPS pass!
+10:10:54 Check Web page pass!
+10:16:01 power on and ping test passing!
+10:16:02 Serial Number:96C2D9553302558
+10:16:02 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+10:16:02 HW_REV:HW_REV: 3
+10:16:02 VENDOR:VENDOR: ARRIS Group, Inc.
+10:16:02 BOOTR:BOOTR: 2.2.0.45
+10:16:02 SW_REV:SW_REV: 9.1.103DR1.SIP
+10:16:02 MODEL:MODEL: TG2482AP2-85
+10:16:02 Serial Number:96C2D9553302558
+10:16:02 FWName:TS0901103DR1_042419_1692.GW_SIP
+10:16:02 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+10:16:02 FWRevision:TS0901103DR1_042419_ARRIS_GW
+10:16:03 Docsis-Downstream Scanning:In Progress
+10:16:03 Docsis-Downstream Ranging:Not Started
+10:16:03 Docsis-Upstream Ranging:Not Started
+10:16:03 Docsis-DHCP:Not Started
+10:16:03 Docsis-TFTP:Not Started
+10:16:03 Docsis-Data Reg Complete:Not Started
+10:16:03 Telephony-DHCP:Not Started
+10:16:03 Telephony-TFTP:Not Started
+10:16:03 Telephony-Reg with Call Server:Not Started
+10:16:03 Telephony-Reg Complete:Not Started
+10:16:03 Time of Day:Not Provisioned
+10:16:03 BPI Status:-----
+10:16:06 judge modem check pass
+10:16:08 Check SN pass!
+10:16:10 Check CM telnet pass!
+10:16:10 Check modem is Operating pass!
+10:16:10 Ping to CMTS pass!
+10:16:27 Rest modem pass!
+10:16:29 Check LED and Telephone pass!
+10:16:31 Check WPS pass!
+10:16:33 Check Web page pass!
+10:18:50 power on and ping test passing!
+10:18:51 Serial Number:96C2D9553302558
+10:18:51 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+10:18:51 HW_REV:HW_REV: 3
+10:18:51 VENDOR:VENDOR: ARRIS Group, Inc.
+10:18:51 BOOTR:BOOTR: 2.2.0.45
+10:18:51 SW_REV:SW_REV: 9.1.103DR1.SIP
+10:18:51 MODEL:MODEL: TG2482AP2-85
+10:18:51 Serial Number:96C2D9553302558
+10:18:51 FWName:TS0901103DR1_042419_1692.GW_SIP
+10:18:52 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+10:18:52 FWRevision:TS0901103DR1_042419_ARRIS_GW
+10:18:52 Docsis-Downstream Scanning:In Progress
+10:18:52 Docsis-Downstream Ranging:Not Started
+10:18:52 Docsis-Upstream Ranging:Not Started
+10:18:52 Docsis-DHCP:Not Started
+10:18:52 Docsis-TFTP:Not Started
+10:18:52 Docsis-Data Reg Complete:Not Started
+10:18:52 Telephony-DHCP:Not Started
+10:18:52 Telephony-TFTP:Not Started
+10:18:52 Telephony-Reg with Call Server:Not Started
+10:18:52 Telephony-Reg Complete:Not Started
+10:18:52 Time of Day:Not Provisioned
+10:18:52 BPI Status:-----
+10:18:54 judge modem check pass
+10:18:57 Check SN pass!
+10:18:59 Check CM telnet pass!
+10:18:59 Check modem is Operating pass!
+10:18:59 Ping to CMTS pass!
+10:19:18 Rest modem pass!
+10:19:20 Check LED and Telephone pass!
+10:19:22 Check WPS pass!
+10:19:24 Check Web page pass!
+15:42:46 power on and ping test passing!
+15:42:48 Serial Number:8932D554C208156
+15:42:48 System:ARRIS DOCSIS 3.0 / PC 1.5 Touchstone Residential Gateway
+15:42:48 HW_REV:HW_REV: 2
+15:42:48 VENDOR:VENDOR: ARRIS Group, Inc.
+15:42:48 BOOTR:BOOTR: 2.2.0.45
+15:42:48 SW_REV:SW_REV: 9.1.103BL
+15:42:48 MODEL:MODEL: TG2482A
+15:42:48 Serial Number:8932D554C208156
+15:42:48 FWName:TS0901103BL_010418_1692.GW
+15:42:48 FWBuildTime:Thu Jan  4 15:06:47 EST 2018
+15:42:48 FWRevision:TS0901103BL_010418_ARRIS_GW
+15:42:49 Docsis-Downstream Scanning:In Progress
+15:42:49 Docsis-Downstream Ranging:Not Started
+15:42:49 Docsis-Upstream Ranging:Not Started
+15:42:49 Docsis-DHCP:Not Started
+15:42:49 Docsis-TFTP:Not Started
+15:42:49 Docsis-Data Reg Complete:Not Started
+15:42:49 Telephony-DHCP:Not Started
+15:42:49 Telephony-TFTP:Not Started
+15:42:49 Telephony-Reg with Call Server:Not Started
+15:42:49 Telephony-Reg Complete:Not Started
+15:42:49 Time of Day:Not Provisioned
+15:42:49 BPI Status:-----
+15:43:38 judge modem check pass
+15:43:40 Check SN pass!
+15:43:42 Check CM telnet pass!
+15:43:42 Check modem is Operating pass!
+15:43:42 Ping to CMTS pass!
+15:44:21 Rest modem pass!
+15:44:24 Check LED and Telephone pass!
+15:44:27 Check WPS pass!
+15:44:29 Check Web page pass!
+15:45:57 power on and ping test passing!
+15:45:59 Serial Number:8932D554C208156
+15:45:59 System:ARRIS DOCSIS 3.0 / PC 1.5 Touchstone Residential Gateway
+15:45:59 HW_REV:HW_REV: 2
+15:45:59 VENDOR:VENDOR: ARRIS Group, Inc.
+15:45:59 BOOTR:BOOTR: 2.2.0.45
+15:45:59 SW_REV:SW_REV: 9.1.103BL
+15:45:59 MODEL:MODEL: TG2482A
+15:45:59 Serial Number:8932D554C208156
+15:45:59 FWName:TS0901103BL_010418_1692.GW
+15:45:59 FWBuildTime:Thu Jan  4 15:06:47 EST 2018
+15:45:59 FWRevision:TS0901103BL_010418_ARRIS_GW
+15:46:00 Docsis-Downstream Scanning:In Progress
+15:46:00 Docsis-Downstream Ranging:Not Started
+15:46:00 Docsis-Upstream Ranging:Not Started
+15:46:00 Docsis-DHCP:Not Started
+15:46:00 Docsis-TFTP:Not Started
+15:46:00 Docsis-Data Reg Complete:Not Started
+15:46:00 Telephony-DHCP:Not Started
+15:46:00 Telephony-TFTP:Not Started
+15:46:00 Telephony-Reg with Call Server:Not Started
+15:46:00 Telephony-Reg Complete:Not Started
+15:46:00 Time of Day:Not Provisioned
+15:46:00 BPI Status:-----
+15:46:03 judge modem check pass
+15:46:05 Check SN pass!
+15:46:07 Check CM telnet pass!
+15:46:08 Check modem is Operating pass!
+15:46:08 Ping to CMTS pass!
+15:47:45 Rest modem pass!
+15:47:49 Check LED and Telephone pass!
+15:48:08 Check WPS pass!
+15:48:11 Check Web page pass!

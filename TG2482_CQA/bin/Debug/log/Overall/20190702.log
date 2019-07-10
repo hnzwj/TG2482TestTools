@@ -1,0 +1,212 @@
+11:30:31 power on and ping test passing!
+11:30:35 Serial Number:96C2D9553302558
+11:30:35 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+11:30:35 HW_REV:HW_REV: 3
+11:30:35 VENDOR:VENDOR: ARRIS Group, Inc.
+11:30:35 BOOTR:BOOTR: 2.2.0.45
+11:30:36 SW_REV:SW_REV: 9.1.103DR1.SIP
+11:30:36 MODEL:MODEL: TG2482AP2-85
+11:30:36 Serial Number:96C2D9553302558
+11:30:36 FWName:TS0901103DR1_042419_1692.GW_SIP
+11:30:36 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+11:30:36 FWRevision:TS0901103DR1_042419_ARRIS_GW
+11:30:36 Docsis-Downstream Scanning:In Progress
+11:30:36 Docsis-Downstream Ranging:Not Started
+11:30:36 Docsis-Upstream Ranging:Not Started
+11:30:36 Docsis-DHCP:Not Started
+11:30:36 Docsis-TFTP:Not Started
+11:30:36 Docsis-Data Reg Complete:Not Started
+11:30:36 Telephony-DHCP:Not Started
+11:30:36 Telephony-TFTP:Not Started
+11:30:36 Telephony-Reg with Call Server:Not Started
+11:30:36 Telephony-Reg Complete:Not Started
+11:30:36 Time of Day:Not Provisioned
+11:30:36 BPI Status:-----
+11:30:42 judge modem check pass
+11:30:45 Check SN pass!
+11:32:12 power on and ping test passing!
+11:32:17 Serial Number:96C2D9553302558
+11:32:17 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+11:32:17 HW_REV:HW_REV: 3
+11:32:17 VENDOR:VENDOR: ARRIS Group, Inc.
+11:32:17 BOOTR:BOOTR: 2.2.0.45
+11:32:17 SW_REV:SW_REV: 9.1.103DR1.SIP
+11:32:17 MODEL:MODEL: TG2482AP2-85
+11:32:17 Serial Number:96C2D9553302558
+11:32:17 FWName:TS0901103DR1_042419_1692.GW_SIP
+11:32:17 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+11:32:17 FWRevision:TS0901103DR1_042419_ARRIS_GW
+11:32:18 Docsis-Downstream Scanning:In Progress
+11:32:18 Docsis-Downstream Ranging:Not Started
+11:32:18 Docsis-Upstream Ranging:Not Started
+11:32:18 Docsis-DHCP:Not Started
+11:32:18 Docsis-TFTP:Not Started
+11:32:18 Docsis-Data Reg Complete:Not Started
+11:32:18 Telephony-DHCP:Not Started
+11:32:18 Telephony-TFTP:Not Started
+11:32:18 Telephony-Reg with Call Server:Not Started
+11:32:18 Telephony-Reg Complete:Not Started
+11:32:18 Time of Day:Not Provisioned
+11:32:18 BPI Status:-----
+11:32:20 judge modem check pass
+11:32:23 Check SN pass!
+11:32:25 Check CM telnet pass!
+11:32:25 Check modem is Operating pass!
+14:19:35 power on and ping test passing!
+14:19:40 Serial Number:96C2D9553302558
+14:19:40 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+14:19:40 HW_REV:HW_REV: 3
+14:19:40 VENDOR:VENDOR: ARRIS Group, Inc.
+14:19:40 BOOTR:BOOTR: 2.2.0.45
+14:19:40 SW_REV:SW_REV: 9.1.103DR1.SIP
+14:19:40 MODEL:MODEL: TG2482AP2-85
+14:19:40 Serial Number:96C2D9553302558
+14:19:40 FWName:TS0901103DR1_042419_1692.GW_SIP
+14:19:40 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+14:19:40 FWRevision:TS0901103DR1_042419_ARRIS_GW
+14:19:41 Docsis-Downstream Scanning:In Progress
+14:19:41 Docsis-Downstream Ranging:Not Started
+14:19:41 Docsis-Upstream Ranging:Not Started
+14:19:41 Docsis-DHCP:Not Started
+14:19:41 Docsis-TFTP:Not Started
+14:19:41 Docsis-Data Reg Complete:Not Started
+14:19:41 Telephony-DHCP:Not Started
+14:19:41 Telephony-TFTP:Not Started
+14:19:41 Telephony-Reg with Call Server:Not Started
+14:19:41 Telephony-Reg Complete:Not Started
+14:19:41 Time of Day:Not Provisioned
+14:19:41 BPI Status:-----
+14:19:43 judge modem check pass
+14:19:46 Check SN pass!
+14:19:47 Check CM telnet pass!
+14:19:48 Check modem is Operating pass!
+14:19:48 Ping to CMTS pass!
+14:20:08 Rest modem pass!
+14:20:10 Check LED and Telephone pass!
+14:20:12 Check WPS pass!
+14:20:16 Check Web page pass!
+14:50:31 power on and ping test passing!
+14:50:35 Serial Number:96C2D9553302558
+14:50:35 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+14:50:35 HW_REV:HW_REV: 3
+14:50:35 VENDOR:VENDOR: ARRIS Group, Inc.
+14:50:35 BOOTR:BOOTR: 2.2.0.45
+14:50:35 SW_REV:SW_REV: 9.1.103DR1.SIP
+14:50:35 MODEL:MODEL: TG2482AP2-85
+14:50:35 Serial Number:96C2D9553302558
+14:50:35 FWName:TS0901103DR1_042419_1692.GW_SIP
+14:50:35 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+14:50:35 FWRevision:TS0901103DR1_042419_ARRIS_GW
+14:50:36 Docsis-Downstream Scanning:In Progress
+14:50:36 Docsis-Downstream Ranging:Not Started
+14:50:36 Docsis-Upstream Ranging:Not Started
+14:50:36 Docsis-DHCP:Not Started
+14:50:36 Docsis-TFTP:Not Started
+14:50:36 Docsis-Data Reg Complete:Not Started
+14:50:36 Telephony-DHCP:Not Started
+14:50:36 Telephony-TFTP:Not Started
+14:50:36 Telephony-Reg with Call Server:Not Started
+14:50:36 Telephony-Reg Complete:Not Started
+14:50:36 Time of Day:Not Provisioned
+14:50:36 BPI Status:-----
+14:50:38 judge modem check pass
+14:50:42 Check SN pass!
+14:50:43 Check CM telnet pass!
+14:50:44 Check modem is Operating pass!
+14:50:44 Ping to CMTS pass!
+15:26:31 power on and ping test passing!
+15:26:39 Serial Number:96C2D9553302558
+15:26:39 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+15:26:39 HW_REV:HW_REV: 3
+15:26:39 VENDOR:VENDOR: ARRIS Group, Inc.
+15:26:39 BOOTR:BOOTR: 2.2.0.45
+15:26:39 SW_REV:SW_REV: 9.1.103DR1.SIP
+15:26:39 MODEL:MODEL: TG2482AP2-85
+15:26:39 Serial Number:96C2D9553302558
+15:26:39 FWName:TS0901103DR1_042419_1692.GW_SIP
+15:26:39 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+15:26:39 FWRevision:TS0901103DR1_042419_ARRIS_GW
+15:26:39 Docsis-Downstream Scanning:In Progress
+15:26:39 Docsis-Downstream Ranging:Not Started
+15:26:39 Docsis-Upstream Ranging:Not Started
+15:26:39 Docsis-DHCP:Not Started
+15:26:39 Docsis-TFTP:Not Started
+15:26:39 Docsis-Data Reg Complete:Not Started
+15:26:39 Telephony-DHCP:Not Started
+15:26:39 Telephony-TFTP:Not Started
+15:26:39 Telephony-Reg with Call Server:Not Started
+15:26:40 Telephony-Reg Complete:Not Started
+15:26:40 Time of Day:Not Provisioned
+15:26:40 BPI Status:-----
+15:26:45 judge modem check pass
+15:26:47 Check SN pass!
+15:26:49 Check CM telnet pass!
+15:26:49 Check modem is Operating pass!
+15:26:50 Ping to CMTS pass!
+15:27:10 Rest modem pass!
+16:26:55 power on and ping test passing!
+16:27:02 Serial Number:96C2D9553302558
+16:27:02 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+16:27:02 HW_REV:HW_REV: 3
+16:27:02 VENDOR:VENDOR: ARRIS Group, Inc.
+16:27:02 BOOTR:BOOTR: 2.2.0.45
+16:27:02 SW_REV:SW_REV: 9.1.103DR1.SIP
+16:27:02 MODEL:MODEL: TG2482AP2-85
+16:27:02 Serial Number:96C2D9553302558
+16:27:02 FWName:TS0901103DR1_042419_1692.GW_SIP
+16:27:02 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+16:27:02 FWRevision:TS0901103DR1_042419_ARRIS_GW
+16:27:03 Docsis-Downstream Scanning:Completed
+16:27:03 Docsis-Downstream Ranging:Completed
+16:27:03 Docsis-Upstream Ranging:Completed
+16:27:03 Docsis-DHCP:Completed
+16:27:03 Docsis-TFTP:Completed
+16:27:03 Docsis-Data Reg Complete:Completed
+16:27:03 Telephony-DHCP:Completed
+16:27:03 Telephony-TFTP:Completed
+16:27:03 Telephony-Reg with Call Server:Completed
+16:27:03 Telephony-Reg Complete:Completed
+16:27:03 Time of Day:Retrieved
+16:27:03 BPI Status:Enabled, Authorized
+16:27:07 judge modem check pass
+16:27:11 Check SN pass!
+16:27:12 Check CM telnet pass!
+16:27:13 Check modem is Operating pass!
+16:27:13 Ping to CMTS pass!
+16:27:27 Rest modem pass!
+16:27:30 Check LED and Telephone pass!
+16:27:32 Check WPS pass!
+16:27:35 Check Web page pass!
+16:36:32 power on and ping test passing!
+16:36:39 Serial Number:96C2D9553302558
+16:36:39 System:ARRIS DOCSIS 3.0 / SIP 2.0 Touchstone Residential Gateway
+16:36:39 HW_REV:HW_REV: 3
+16:36:39 VENDOR:VENDOR: ARRIS Group, Inc.
+16:36:39 BOOTR:BOOTR: 2.2.0.45
+16:36:39 SW_REV:SW_REV: 9.1.103DR1.SIP
+16:36:39 MODEL:MODEL: TG2482AP2-85
+16:36:39 Serial Number:96C2D9553302558
+16:36:39 FWName:TS0901103DR1_042419_1692.GW_SIP
+16:36:39 FWBuildTime:Wed Apr 24 16:33:07 EDT 2019
+16:36:39 FWRevision:TS0901103DR1_042419_ARRIS_GW
+16:36:40 Docsis-Downstream Scanning:Completed
+16:36:40 Docsis-Downstream Ranging:Completed
+16:36:40 Docsis-Upstream Ranging:Completed
+16:36:40 Docsis-DHCP:Completed
+16:36:40 Docsis-TFTP:Completed
+16:36:40 Docsis-Data Reg Complete:Completed
+16:36:40 Telephony-DHCP:Completed
+16:36:40 Telephony-TFTP:Completed
+16:36:40 Telephony-Reg with Call Server:Completed
+16:36:40 Telephony-Reg Complete:Completed
+16:36:40 Time of Day:Retrieved
+16:36:40 BPI Status:Enabled, Authorized
+16:36:43 judge modem check pass
+16:36:46 Check SN pass!
+16:36:47 Check CM telnet pass!
+16:36:48 Check modem is Operating pass!
+16:36:48 Ping to CMTS pass!
+16:37:18 Rest modem pass!
+16:37:21 Check LED and Telephone pass!
+16:37:23 Check WPS pass!
+16:37:25 Check Web page pass!
